@@ -29,7 +29,8 @@
                     <input type="number" size="6" id="amount" placeholder="9999.99" pattern="$[0-9]{4}.[0-9]{2}">
                 </div>
             
-                <div class="row">align-items-startjustify-content-start">
+                <div class="row">
+                    <div class="col-6 align-items-start">
                         <label for="fname">First Name</label>
                         <input type="text" size="28" id="fname" value="John" pattern="[A-Z][a-z]{27}">
                     </div>
@@ -62,8 +63,10 @@
                         <label for="ZipCode">Postal Code</label>
                         <input type="number" size="5" placeholder="12345" pattern="[0-9]{5}"
                     </div>
-                    <div class="row align-items-start bg-secondary-25">
-                        <div class="col-4 ">
+                    
+                        
+                    <div class="row">
+                        <div class="align-items-start bg-secondary-25">
                             <p>We Accept</p>
                             <input type="radio" id="mc" name="cc">
                             <label for="mc"><i class="fa-brands fa-cc-mastercard"></i></label>
@@ -74,8 +77,6 @@
                             <input type="radio" id="dis" name="cc">
                             <label for="dis"><i class="fa-brands fa-cc-discover"></i></label>
                     </div>
-                    <div class="row">
-                        
                         </div>
                         <div class="col-8 align-items-end">
                             <p>Message</p>

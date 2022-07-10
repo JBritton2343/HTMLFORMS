@@ -9,14 +9,13 @@
 	</head>
 	<body>
         <div class="container d-inline-block vstack-gap-3">
+            <div>
+                <p class="text text-sm-start bg-warning-50 text-warning fs-small"><i class="fa-solid fa-exclamation">Some fields are missing</i></p>
+            </div>
         <form action="action_page.php" method="post">
             <div class="row">
-                <div class="col">
-                    <p class="text text-sm-start bg-light fs-large fw-bold">Payment form Example</p>
-                </div>
-                <div class="col">
-                    <p class="text text-sm-start bg-warning-50 text-warning fs-small"><i class="fa-solid fa-exclamation">Some fields are missing</i></p>
-                </div>
+                
+                
                 <div class="col-6 justify-content-start">
                     <label for="Card #">Card #</label>
                     <input type="number" size="16" id="Card #" placeholder="9999-9999-9999-9999" pattern="[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{4}">

@@ -1,48 +1,46 @@
 .cardNo{
-    padding: 0, 50, 100, 50;
-    margin: 0, 70, 70, 70;
+    padding: 0 50px 100px 50px;
+    margin: 0px 70px 70px 70;
 }
 .cNo{
-    padding: 0, 50, 100, 50;
-    margin: 0, 70, 70, 70;
+    padding: 0 50px 100px 50px;
+    margin: 0px 70px 70px 70;
 }
-
 .amt{
-    padding: 0, 50, 100, 50;
-    margin: 0, 70, 70, 70;
+    padding: 0 50px 100px 50px;
+    margin: 0px 70px 70px 70;
 }
 .FName{
-    padding: 100, 50, 100, 50;
-    margin: 70, 70, 70, 70; 
+    padding: 100px 50px 100px 50px;
+    margin: 70px 70px 70px 70px; 
 }
 .LName{
-    padding: 100, 50, 100, 50;
-    margin: 70, 70, 70, 70; 
+    padding: 100px 50px 100px 50px;
+    margin: 70px 70px 70px 70px; 
 }
 .City{
 
-    padding: 100, 50, 100, 50;
-    margin: 70, 70, 70, 70; 
+    padding: 100px 50px 100px 50px;
+    margin: 70px 70px 70px 70px;
 }
 
 
 .state{
 
-    padding: 100, 50, 100, 50;
-    margin: 70, 70, 70, 70; 
+    padding: 100px 50px 100px 50px;
+    margin: 70px 70px 70px 70px;
 }
 .zip{
 
-    padding: 100, 50, 100, 50;
-    margin: 70, 70, 70, 70; 
+    padding: 100px 50px 100px 50px;
+    margin: 70px 70px 70px 70px;
 }
 .accepted{
-    padding: 100, 50, 100, 50;
-    margin: 70, 70, 70, 70; 
-
+    padding: 100px 50px 100px 50px;
+    margin: 70px 70px 70px 70px;
 }
 .message{
 
-    padding: 100, 50, 100, 50;
-    margin: 70, 70, 70, 70; 
+    padding: 100px 50px 100px 50px;
+    margin: 70px 70px 70px 70px;
 }

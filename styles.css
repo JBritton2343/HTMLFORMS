@@ -1,0 +1,48 @@
+.cardNo{
+    padding: 0, 50, 100, 50;
+    margin: 0, 70, 70, 70;
+}
+.cNo{
+    padding: 0, 50, 100, 50;
+    margin: 0, 70, 70, 70;
+}
+
+.amt{
+    padding: 0, 50, 100, 50;
+    margin: 0, 70, 70, 70;
+}
+.FName{
+    padding: 100, 50, 100, 50;
+    margin: 70, 70, 70, 70; 
+}
+.LName{
+    padding: 100, 50, 100, 50;
+    margin: 70, 70, 70, 70; 
+}
+.City{
+
+    padding: 100, 50, 100, 50;
+    margin: 70, 70, 70, 70; 
+}
+
+
+.state{
+
+    padding: 100, 50, 100, 50;
+    margin: 70, 70, 70, 70; 
+}
+.zip{
+
+    padding: 100, 50, 100, 50;
+    margin: 70, 70, 70, 70; 
+}
+.accepted{
+    padding: 100, 50, 100, 50;
+    margin: 70, 70, 70, 70; 
+
+}
+.message{
+
+    padding: 100, 50, 100, 50;
+    margin: 70, 70, 70, 70; 
+}
